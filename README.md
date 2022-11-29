@@ -4,7 +4,8 @@
 This is a 404 Error page for Daily UI's Day 03 challenge for the <a href="https://www.dailyui.co/"> 100 Days of UI 
 challenge.</a></p>
 
-- [Repo](https://github.com/kelseychristensen/Daily-UI-Day-008 "Daily UI Day 08 Repo")
+- [Repo](https://github.com/kelseychristensen/Daily-UI-Day-008 "Daily UI Day 008 Repo")
+- [Dribbble](https://dribbble.com/shots/20017761-Daily-UI-Day-008-404-Page "Daily UI Day 008 Dribbble")
 
 ![Section 1](screenshot.gif "Screenshot")
 
